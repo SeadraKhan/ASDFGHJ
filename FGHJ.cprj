@@ -3,7 +3,7 @@
   <IsFolder>false</IsFolder>
   <Id>0</Id>
   <IsNewRecord>false</IsNewRecord>
-  <Name>C:\Users\sidra.khan\Documents\Astera Software\Testing\Git\8\FGHJ.cprj</Name>
+  <Name>C:\Git\Project_4\FGHJ.cprj</Name>
   <Description />
   <CreateDtTm>0001-01-01T00:00:00</CreateDtTm>
   <UpdateDtTm>0001-01-01T00:00:00</UpdateDtTm>
@@ -11,14 +11,26 @@
     <Name>FGHJ.cprj</Name>
     <ProjectType>Integration</ProjectType>
     <VcAction>None</VcAction>
-    <Members />
+    <Members>
+      <ProjectItem xsi:type="ProjectItemFile">
+        <Name>Dataflow4.Df</Name>
+        <ProjectType>Integration</ProjectType>
+        <VcAction>None</VcAction>
+      </ProjectItem>
+    </Members>
     <IsExpanded>false</IsExpanded>
   </_TopFolder>
   <TopFolder>
     <Name>FGHJ.cprj</Name>
     <ProjectType>Integration</ProjectType>
     <VcAction>None</VcAction>
-    <Members />
+    <Members>
+      <ProjectItem xsi:type="ProjectItemFile">
+        <Name>Dataflow4.Df</Name>
+        <ProjectType>Integration</ProjectType>
+        <VcAction>None</VcAction>
+      </ProjectItem>
+    </Members>
     <IsExpanded>false</IsExpanded>
   </TopFolder>
   <RegressionProperties>
